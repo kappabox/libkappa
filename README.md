@@ -1,2 +1,2 @@
 # libkappa
-☠️ c++ game hacking library
+☠️ c++ process hacking library
